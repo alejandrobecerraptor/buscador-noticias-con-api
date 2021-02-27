@@ -1,0 +1,18 @@
+.heading{
+    font-family: 'Raleway',sans-serif;
+    font-weight: 900;
+    font-size: 2rem;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.buscador{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: left;
+}
+
+/* si en el modulo de css poner la clase btn-block con el guion medio la forma de llamarlo es styles['btn-block'] */
+.btn_block{
+    width: 100%;
+}
