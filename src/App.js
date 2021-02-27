@@ -1,7 +1,16 @@
+import {Fragment} from 'react'
+import Header from './components/Header';
 
 function App() {
   return (
-    <h1>Noticias React con API</h1>
+    <Fragment>
+      <Header
+        titulo= "Buscador de Noticias React Con API"
+      />
+      <div className="container white">
+      
+      </div>
+    </Fragment>
   );
 }
 
